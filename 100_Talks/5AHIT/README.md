@@ -9,5 +9,5 @@ Nr.| Thema                                                                      
  4 | Structures and Classes, Methods, Inheritance                                   | Berger, Köttstorfer
  5 | Extensions, Protocols                                                          | Linnert, Stockinger
  6 | Initialization, Deinitialization, Generics                                     | Gavric, Zauner
- 7 | Properties, Subscripts                                                         | Früwirth, Haas
+ 7 | [Properties, Subscripts](./7/properties_subscripts.key)                                                         | Früwirth, Haas
  8 | SwiftUI                                                                        | Frank
