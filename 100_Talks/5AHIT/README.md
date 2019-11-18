@@ -1,4 +1,4 @@
-# Talks Swift
+﻿# Talks Swift
 
 Nr.| Thema                                                                          | Vortragender
 ---|--------------------------------------------------------------------------------|-----------------------------
@@ -7,7 +7,7 @@ Nr.| Thema                                                                      
  2 | Collection Types, Function                                                     | Kaser, Lidauer
  3 | [Closures, Enumerations](./3/Closures_Enums.key)                               | Emminger, Kollau
  4 | Structures and Classes, Methods, Inheritance                                   | Berger, Köttstorfer
- 5 | Extensions, Protocols                                                          | Linnert, Stockinger
+ 5 | [Extensions, Protocols](./5/Linnert_Stockinger_Extensions_Protocols.key)                                                          | Linnert, Stockinger
  6 | Initialization, Deinitialization, Generics                                     | Gavric, Zauner
  7 | [Properties, Subscripts](./7/properties_subscripts.key)                                                         | Früwirth, Haas
  8 | SwiftUI                                                                        | Frank
