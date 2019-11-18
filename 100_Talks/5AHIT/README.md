@@ -1,4 +1,4 @@
-# Talks Swift
+﻿# Talks Swift
 
 Nr.| Thema                                                                          | Vortragender
 ---|--------------------------------------------------------------------------------|-----------------------------
@@ -8,6 +8,6 @@ Nr.| Thema                                                                      
  3 | Closures, Enumerations                                                         | Emminger, Kollau
  4 | Structures and Classes, Methods, Inheritance                                   | Berger, Köttstorfer
  5 | Extensions, Protocols                                                          | Linnert, Stockinger
- 6 | Initialization, Deinitialization, Generics                                     | Gavric, Zauner
+ 6 | [Initialization, Deinitialization, Generics](./6/Generics-Initializers.key)                                     | Gavric, Zauner
  7 | Properties, Subscripts                                                         | Früwirth, Haas
  8 | SwiftUI                                                                        | Frank
