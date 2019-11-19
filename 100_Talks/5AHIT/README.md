@@ -10,4 +10,4 @@ Nr.| Thema                                                                      
  5 | [Extensions, Protocols](./5/Linnert_Stockinger_Extensions_Protocols.key                              | Linnert, Stockinger
  6 | [Initialization, Deinitialization, Generics](./6/Generics-Initializers.key)                          | Gavric, Zauner
  7 | [Properties, Subscripts](./7/properties_subscripts.key)                                              | Frühwirth, Haas
- 8 | SwiftUI                                                                                              | Frank
+ 8 | [SwiftUI](./8/SwiftUI.key)                                                                           | Frank
