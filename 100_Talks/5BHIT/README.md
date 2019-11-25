@@ -2,9 +2,9 @@
 
 Nr.| Thema                                                                                            | Vortragender
 ---|--------------------------------------------------------------------------------------------------|-----------------------
- 0 | [The Basics](./0/The_Basics.key)                                                                  | Helml
+ 0 | [The Basics](./0/The_Basics.key)                                                                 | Helml
  1 | Basic Operators, Strings and Characters, Control Flow, Optionals                                 | Wagner, Weber
- 2 | Collection Types, Function, Subscripts                                                           | Frank, Schober
+ 2 | [Collection Types, Function, Subscripts](./2/Subscripts.key)                                     | Schober
  3 | [Closures, Enumerations, Properties](./3/Presentation_Closures.key)                              | Bordenschlager,Krammer
  4 | Structures and Classes, Methods, Inheritance                                                     | Kampmüller, Zandomeneghi
  5 | Extensions, Protocols                                                                            | Schwayer, Sperl
